@@ -1,0 +1,174 @@
+id,ease_of_play,strategy_dependent,injury_risk,individual_brilliance,locations,seasons,music_genre,food_drink,color,song,emotions,ticket_price,label
+8,8.0,Strongly agree,Agree,Disagree,"Outdoor public space,Private sports facility","Spring,Fall","Pop,Latin",Fried Chicken,Red,Waka Waka,Excited,CAD 150,Soccer
+8,2.0,Neutral,Agree,Strongly disagree,"Outdoor public space,Community recreation facility,Private sports facility","Spring,Summer,Fall","Pop,Other",Beer,Blue,Believer by Imagine Dragons,Excited,CAD 50,Baseball
+8,4.0,Neutral,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others",Summer,"Hip-hop or rap,Electronic or dance",Pizza,Red,All I Do Is Win,Boring,CAD 50,Basketball
+28,1.0,Strongly agree,Neutral,Disagree,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Pop,Rock,Latin","Beer, Fries, Pie, Hot Dog, BBQ.",Blue.,Go west.,Excited.,Depends on the importance of the match. A decent seat in an important match worth 1000USD for me.,Soccer
+28,3.0,Neutral,Disagree,Agree,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Country,Folk or traditional","Hot Dogs, Hamburgers.",Red.,Hotel California.,Boring.,50USD,Baseball
+28,3.0,Agree,Neutral,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Rock,Hip-hop or rap","Hot Dogs, Beer.",Black,See you again.,Relax,100USD,Basketball
+31,1.0,Agree,Neutral,Disagree,"Indoor facility,Outdoor public space,School or university facility","Spring,Fall","Pop,Electronic or dance","Chips.
+
+Soft Drinks",All colours,Waka Waka by Shakira,very captivated,400 - 700,Soccer
+31,4.0,Agree,Neutral,Agree,"Outdoor public space,Community recreation facility,Others","Spring,Summer,Fall",Country,"Hot Dogs, Burgers, Beer.",white,Nothing in particular,never watched [this sport],100,Baseball
+31,4.0,Neutral,Disagree,Agree,"Indoor facility,School or university facility","Winter,Spring,Summer,Fall",Hip-hop or rap,pizza,red,Empire State of Mind,Invested in general but a bit annoyed with the timeouts.,300 - 400,Basketball
+48,7.0,Agree,Neutral,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others","Summer,Fall","Pop,Hip-hop or rap,Latin",Hot dogs and soda,blue,love me again by john newman,excited if it's the [a competition],$75,Soccer
+48,7.0,Agree,Strongly disagree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Summer,Fall",No particular type,hot dogs and beer,red,none,neutral,$20,Baseball
+48,6.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,hot dogs and soda,red,god's plan by drake,excited,$150,Basketball
+55,8.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Rock,Electronic or dance,Country","Pizza, fries, burgers, wings, nachos, and soft drinks are commonly associated with watching [this sport], especially when watching games with friends or at a sports bar.",Green,Waka Waka (This time for Africa),Excited and energized,50 - 75 CAD,Soccer
+55,3.5,Strongly agree,Disagree,Neutral,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Pop,Rock,Other","*
+
+Hot dogs, roasted peanuts, Cracker Jack, popcorn, nachos, and cold beer or soda.",Green,"""Take Me Out to the Ball Game""","Relaxed, nostalgic, and engaged",$30 - $75,Baseball
+55,7.0,Agree,Agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility","Spring,Summer,Fall",Hip-hop or rap,"Foods: Finger foods and stadium classics like chicken wings, nachos with cheese, pizza, burgers, and popcorn, Drinks: Sports drinks (like Gatorade), soda, or beer, particularly enjoyed while watching games casually with friends at home, in sports bars, or at local arenas.",Orange,"Sweet Georgia Brown""","high-energy excitement, suspense, and appreciation for athletic precision.",$200 to $300,Basketball
+59,6.0,Agree,Disagree,Disagree,"Outdoor public space,Private sports facility","Summer,Fall",No particular type,Beer,Blue,,Bored,0,Soccer
+59,3.0,Disagree,Neutral,Strongly agree,"Outdoor public space,School or university facility,Private sports facility","Spring,Summer,Fall",No particular type,Hot dogs,Red,,Bored,0,Baseball
+59,4.0,Neutral,Disagree,Agree,"Indoor facility,Outdoor public space,School or university facility,Private sports facility","Summer,Fall",Hip-hop or rap,,Brown,,Bored ,0,Basketball
+63,8.0,Strongly agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer,Fall",Pop,Pizza and cold drinks,navy,waka waka,excited,60,Soccer
+63,4.0,Agree,Neutral,Strongly agree,"School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall",No particular type,shawarma and cold drinks,blue,,curious,30,Baseball
+63,6.0,Agree,Agree,Agree,"Indoor facility,School or university facility,Community recreation facility,Private sports facility","Winter,Spring,Summer,Fall",Hip-hop or rap,hotdog and cold drinks,orange,,introspective,40,Basketball
+69,8.0,Neutral,Agree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility","Spring,Summer,Fall","Pop,Rock,Hip-hop or rap,Electronic or dance",beer & Bar snack ,"red, blue, yellow, white, black",Waka Waka,intense and confusing (because I don't know much about this sport),$100,Soccer
+69,7.0,Disagree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility","Spring,Summer,Fall","Pop,Electronic or dance,Country",chips,"white, brown",none,peace & calm,40,Baseball
+69,6.0,Agree,Agree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer,Fall","Pop,Rock,Hip-hop or rap,Electronic or dance",snacks,black，yellow,There’s no specific song. They’re generally quite energetic and intense.,fun,100,Basketball
+71,2.0,Agree,Agree,Strongly agree,"Indoor facility,Community recreation facility","Winter,Spring,Fall",Rock,Poutine,Blue,Allez Montreal,Excited,100$,Soccer
+71,5.0,Agree,Neutral,Neutral,Outdoor public space,"Spring,Summer,Fall",Pop,French Fries,White,Gansta's Paradise,Excited,100$,Baseball
+71,6.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,Community recreation facility","Spring,Summer,Fall",Rock,Fried Chicken,Orange,Remember the name,Excited,100$,Basketball
+81,7.0,Disagree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others","Spring,Summer","Pop,Electronic or dance,Latin","Beer, Burgers",Red,Waka Waka,"Happy, Excited",$500,Soccer
+81,4.0,Neutral,Disagree,Agree,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer","Pop,Rock","Hot dogs, Coke",Blue,Thunderstruck,Bored,50,Baseball
+81,7.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Hip-hop or rap","Hot dog, Coke",Red,Money in the grave,Excited,200,Basketball
+83,3.0,Agree,Agree,Disagree,Outdoor public space,Summer,No particular type,Lays chips and soda ,"a bunch of different colors - red, blue, white mainly ",Don’t really have a song to associate this sport with ,Feel a sense of community bonding. ,Nothing more than 400,Soccer
+83,3.0,Agree,Agree,Disagree,Outdoor public space,Summer,No particular type,Hotdogs ,Blue ,No particular song ,Worried the ball will hit me,200,Baseball
+83,4.0,Agree,Agree,Disagree,Indoor facility,Fall,No particular type,Also chips and soda ,Red,No particular song,Excited and impressed ,Less than 400,Basketball
+93,5.0,Agree,Agree,Disagree,Community recreation facility,Summer,"Rock,Hip-hop or rap",BBQ,Green,wakawaka,excited,0 dollars,Soccer
+93,3.0,Neutral,Disagree,Disagree,School or university facility,Spring,No particular type,chips,blue,No,boring,0,Baseball
+93,6.0,Agree,Agree,Disagree,School or university facility,Summer,Hip-hop or rap,coke,brown,see you again,boring,0,Basketball
+99,7.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby",Summer,Latin,beer and chips,green,[a competition],thrilled ,350,Soccer
+99,3.0,Neutral,Disagree,Strongly agree,"Outdoor public space,Community recreation facility","Summer,Fall",Country,hot dog,white,USA national anthem ,bored,150,Baseball
+99,4.0,Agree,Neutral,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,nachos,red,,entertained,250,Basketball
+101,5.0,Strongly agree,Agree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility",Summer,"Pop,Rock,Electronic or dance,Latin","Pepsi, Coca-cola, fast food",green,Dai dai by Burna Boy and Shakira,"I feel excited, part of the team, and happy.",$120,Soccer
+101,7.0,Agree,Agree,Disagree,"Outdoor public space,School or university facility,Community recreation facility","Spring,Summer,Fall",No particular type,"hotdogs, peanuts, pretzels",blue,Thunderstruck by AC/DC,I feel comfort and a sense of community.,$80,Baseball
+101,5.0,Strongly agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility","Winter,Spring,Fall",Hip-hop or rap,"nachos, hotdogs, fries, pizza",red,[this sport] by Kurtis Blow,"I feel pupmed up, excited, tension, and a sense of community.",$150,Basketball
+102,2.0,Strongly agree,Agree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Pop,Hip-hop or rap,Latin","beer, hot dog",green,Hey Jude,emotional,$500,Soccer
+102,3.0,Agree,Neutral,Agree,Outdoor public space,"Spring,Summer","Rock,Hip-hop or rap,Country","hot dog, beer, hamburgers, peanuts",red,Take me out to the ballgame,bored,$200,Baseball
+102,1.0,Strongly agree,Strongly agree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Hip-hop or rap","wings, alcohol",brown,"Money In the Grave, Drake",emotional,$700,Basketball
+105,3.0,Agree,Strongly agree,Disagree,"Outdoor public space,School or university facility,Private sports facility","Spring,Fall","Pop,Hip-hop or rap,Electronic or dance","Beer, alcohol and maybe hotdogs.",Green,Africa,"Bored, until a score, then excited.",$500,Soccer
+105,6.0,Neutral,Disagree,Agree,"Outdoor public space,School or university facility,Private sports facility","Spring,Fall",No particular type,Beer and hotdogs.,Blue,Take Me Out to the Ball Game,"I can feel the pressure
+
+ ",$100,Baseball
+105,6.0,Agree,Neutral,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Winter,Spring,Summer,Fall","Pop,Hip-hop or rap",Gatorade,Orange,Space Jam,Excited,$300,Basketball
+113,4.0,Agree,Disagree,Strongly disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility",Summer,"Electronic or dance,Country","Pizza
+
+Beer ",Blue,I don't know,Good,0,Soccer
+113,3.0,Agree,Disagree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility",Summer,Pop,Beer,Brown,I don't know ,Good,0,Baseball
+113,3.0,Agree,Disagree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Summer,Fall",No particular type,🍺 ,Brown,I don't know ,Exciting ,0,Basketball
+119,3.0,Strongly agree,Agree,Neutral,"Indoor facility,Outdoor public space,Private sports facility",Summer,"Rock,Electronic or dance","wings, soft drinks",Black and white,Raor,Excited,400cad,Soccer
+119,,,,,,,,,,,,,Baseball
+119,,,,,,,,,,,,,Basketball
+139,2.0,Agree,Strongly agree,Disagree,"Indoor facility,Outdoor public space,School or university facility","Summer,Fall","Hip-hop or rap,Electronic or dance","Beer, burger, French fries","Red, black, white","[a competition] anthems, Blue Lock anime OP",Bored,0,Soccer
+139,6.0,Neutral,Neutral,Strongly agree,"Outdoor public space,School or university facility","Summer,Fall",Hip-hop or rap,"Beer, hot dog, peanuts, pizza","White, red, green, brown","Take me to the ball game, the short piano session from the announcer",Bored,0,Baseball
+139,4.0,Agree,Strongly agree,Disagree,"Indoor facility,Outdoor public space,School or university facility","Summer,Fall",Hip-hop or rap,"Beer, pizza, burger, French fries","Orange, red, yellow",Shabang,Bored,0,Basketball
+145,6.0,Disagree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility","Spring,Summer,Fall","Country,Latin","Coke, Beer",Green,Waka Waka by Shakira,"Excited, nervous",$200,Soccer
+145,3.0,Disagree,Disagree,Disagree,"Outdoor public space,School or university facility,Community recreation facility","Spring,Summer,Fall",Pop,"Hot dogs, beer",Blue,Take Me Out to the Ball Game,Relaxed,$150,Baseball
+145,4.0,Neutral,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility","Winter,Spring,Summer,Fall","Pop,Hip-hop or rap",Gatorade,Orange,Roundball Rock by John Tesh,Excited,$150,Basketball
+154,8.0,Agree,Agree,Strongly disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Latin,"Burger
+
+coca cola ",Green,Waka waka - Shakira,Excited,200,Soccer
+154,2.0,Agree,Strongly agree,Agree,"Indoor facility,Outdoor public space,At home or nearby",Summer,Country,"Hotdog
+
+popcorn",White,Take me out to the ball game,intrigued ,$30,Baseball
+154,4.0,Strongly agree,Agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,"Burger
+
+alcoholic drink",Orange,Chun Li - Nicki Minaj,Interested,$200,Basketball
+160,10.0,Disagree,Disagree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others","Spring,Summer,Fall","Latin,Other","Fish and chips, beans and mash, beers",White,Shakira - Waka Waka ... although that kind of gives it away!,"Excited, edge of my seat",Within an order of magnitude of $100,Soccer
+160,3.0,Agree,Neutral,Strongly agree,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Rock,Hip-hop or rap,Country","Hotdogs, burgers and fries, beer",Grey,Take Me Out to the Ball Game,Bored!,$20 max,Baseball
+160,5.0,Neutral,Disagree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,None really,Orange,Jumpman - Drake and Future,Reminiscent of the late 2010s,Couple hundred bucks ,Basketball
+163,5.0,Strongly agree,Agree,Strongly disagree,Outdoor public space,"Spring,Summer,Fall",No particular type,Fries,Red,,Bored,$20,Soccer
+163,5.0,Neutral,Neutral,Strongly agree,Outdoor public space,"Spring,Summer,Fall",No particular type,,,,Bored,$20,Baseball
+163,5.0,Agree,Agree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Private sports facility","Spring,Summer,Fall",No particular type,,Red,Iceman,Bored,$20,Basketball
+175,5.0,Agree,Agree,Neutral,"Outdoor public space,School or university facility,At home or nearby","Spring,Summer","Rock,Hip-hop or rap",Coca Cola,White,I adore you,Excited,300,Soccer
+175,6.0,Neutral,Agree,Strongly agree,"Outdoor public space,School or university facility","Spring,Summer","Pop,Hip-hop or rap","Hot Dog
+
+Soda",Blue,Run,Active,100,Baseball
+175,4.0,Strongly agree,Agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility","Winter,Spring,Summer,Fall",Hip-hop or rap,Nachos,Orange,Move,Mixed feelings,200,Basketball
+181,8.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others","Spring,Summer,Fall",No particular type,soda,blue and white and green and red and yellow,waka waka,fine,0,Soccer
+181,4.0,Agree,Neutral,Disagree,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall",No particular type,hotdog,white,nil,fine,0,Baseball
+181,7.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall",Hip-hop or rap,hotdog,orange,nil,fine,0,Basketball
+185,7.0,Agree,Neutral,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer",No particular type,Hot dogs for food and beer or soda for drinks,Blue,Waka Waka (This Time for Africa),Hyped,50 CAD,Soccer
+185,4.0,Agree,Agree,Agree,"Indoor facility,School or university facility,Community recreation facility,Private sports facility","Spring,Summer",No particular type,"Hot dogs and popcorn for food, iced tea and beer for drinks",Blue,Take Me Out To The Ballgame,Calm with sudden exhilaration,30 CAD,Baseball
+185,8.0,Neutral,Agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer","Pop,Hip-hop or rap","Wings, popcorn, and nachos for food and soda for drinks",Orange,[this sport] by Kurtis Blow,Excited,30 CAD,Basketball
+192,7.0,Agree,Agree,Neutral,"School or university facility,Community recreation facility,Private sports facility","Spring,Fall","Rock,Hip-hop or rap",chips and pop,"blue, green",daidai,excited,500 dollars,Soccer
+192,9.0,Neutral,Neutral,Agree,"School or university facility,Community recreation facility,Private sports facility","Spring,Fall",Rock,chips and pop,white,Centerfield,bored,80 dollars,Baseball
+192,5.0,Agree,Agree,Agree,"Indoor facility,School or university facility,Community recreation facility,Private sports facility","Spring,Fall","Rock,Hip-hop or rap",chips and pop,red orange,Lose Yourself ,excited,500 dollars,Basketball
+204,6.0,Agree,Strongly agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",No particular type,Chicken Wings,Blue,Y Que Fue? - Don Miguelo,Suspense,250,Soccer
+204,4.0,Disagree,Strongly disagree,Disagree,"Outdoor public space,School or university facility","Spring,Summer,Fall",Country,Hot Dogs,White,"Take me Home, Country Road - John Denver",Bored,10,Baseball
+204,5.0,Neutral,Agree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,Beer,Orange,"Forever - Drake, Kanye West, Lil Wayne, and Eminem",Excited,100,Basketball
+214,5.0,Agree,Strongly agree,Agree,"Indoor facility,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Rock,Hip-hop or rap,Electronic or dance","Pizza, chicken wings, fries, burgers, hot dogs, nachos or other salty snacks, soda and soft drinks, beer",Green,Waka Waka (This Time for Africa) - Shakira,"Ecstatic and sometimes nervous, especially when the game is close. I also feel a strong sense of anticipation and enjoyment when watching with my parents, because they are [this sport] fans. I watched the opening [a competition] game in Toronto vs Bosnia with my parents. I didn't have much knowledge of [this sport] rules or officiating then, but thanks to my parents, they helped me understand what was happening throughout the game. I felt like I was at an adult's playground, surrounded by the energy of thousands of fans. I left the stadium with a 2nd-degree sunburn and even had to see the doctor afterward to make sure there were no skin infections.","I’d be willing to pay around $50–$100 CAD for a decent seat at a professional [this sport] game. For a major international tournament or a particularly important match, I’d be willing to spend up to $150 CAD.",Soccer
+214,5.0,Agree,Strongly agree,Neutral,"Indoor facility,School or university facility,Private sports facility","Spring,Summer,Fall","Pop,Rock,Hip-hop or rap,Electronic or dance","Hot dogs, popcorn, peanuts, fries, and cold soda, or beer",Brown,Take Me Out to the Ball Game,"I have never been to a [this sport] game, so I wouldn't know.",$30 CAD.,Baseball
+214,5.0,Strongly agree,Strongly agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Rock,Hip-hop or rap,Electronic or dance","Pizza, chicken wings, fries, and cold soda, or beer",Yellow,Sirius – The Alan Parsons Project,"VERY VERY HAPPY BECAUSE I AM A HUGE [this sport] FAN, UGH!",$100 CAD max!,Basketball
+218,7.0,Agree,Neutral,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer,Fall","Hip-hop or rap,Electronic or dance,Latin",Beers and fried chicken (chicken wings),Red,Waka-Waka,"excited, passionate ",$250,Soccer
+218,4.0,Disagree,Disagree,Agree,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Hip-hop or rap,Electronic or dance,Classical or jazz",beers and hotdogs,blue,Take Me Out to the Ball Game,"relaxed, chill",$50,Baseball
+218,6.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,beers and wings,red,Get'cha Head in the Game,"excited, passionate",$300,Basketball
+229,3.0,Agree,Strongly agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Summer,Fall",No particular type,coke,green,Dai Dai,excited,0,Soccer
+229,2.0,Agree,Strongly agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Summer,Fall",No particular type,coke,red,,energetic,0,Baseball
+229,5.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Summer,Fall",No particular type,Vegetable,Orange,,Excited,10,Basketball
+233,6.0,Strongly agree,Strongly agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Private sports facility","Spring,Summer,Fall","Pop,Hip-hop or rap,Latin","beer, chips",green,waving flags,exhilarated,400,Soccer
+233,3.0,Disagree,Neutral,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Private sports facility","Spring,Summer,Fall",No particular type,"hot dog, beer, peanuts, sunflower seeds",blue,take me to the ballgame,bursts of enjoyment,250,Baseball
+233,7.0,Strongly agree,Strongly agree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Hip-hop or rap","sour patches, pizza, doritos, haribo, candy",orange,[this sport],amazing,500,Basketball
+234,6.0,Agree,Agree,Neutral,"School or university facility,Community recreation facility",Winter,No particular type,啤酒,绿色的,生命之杯,令人兴奋,800,Soccer
+234,3.0,Disagree,Disagree,Agree,Others,Winter,No particular type,Coke,Red,Take Me Out To The Ballgame,Exciting,400,Baseball
+234,8.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Fall",Pop,Coke,Red,[this sport],Exciting,600,Basketball
+237,5.0,Agree,Agree,Agree,"Outdoor public space,School or university facility","Spring,Summer","Pop,Electronic or dance,Latin",Drinking Beer,Yellow and Green,,Excited,$100,Soccer
+237,9.0,Neutral,Disagree,Agree,"Outdoor public space,Community recreation facility,Private sports facility","Spring,Summer,Fall",Pop,Eating Peanuts,Blue,No particular song,Excited,$100,Baseball
+237,5.0,Agree,Neutral,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,No particular food,Red,No particular song,Excited,$100,Basketball
+243,9.0,Agree,Neutral,Disagree,"Outdoor public space,At home or nearby",Summer,"Pop,Other","* hot dogs
+
+* guacamole
+
+* wings 
+
+* beer 
+
+* European ","* red
+
+* blue
+
+* yellow",Waka waka,"* excited
+
+* high energy 
+
+* happy",200,Soccer
+243,3.0,Disagree,Neutral,Strongly agree,"Outdoor public space,School or university facility",Summer,Pop,"* wings
+
+* hot dogs 
+
+* candy 
+
+* beer 
+
+* pop",blue,God's Plan by Drake,bored,100,Baseball
+243,9.0,Agree,Neutral,Agree,"Indoor facility,Outdoor public space,School or university facility,At home or nearby",Summer,"Pop,Hip-hop or rap,Electronic or dance","* burger
+
+* nachos
+
+* beer ",red,God's Plan by Drake,excited ,150,Basketball
+252,3.0,Strongly agree,Strongly agree,Strongly disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Rock,Hip-hop or rap,Latin","beers, burgers, chips, peanuts, cucumbers, and any snacks that are sold on the local market.","blue, red, yellow, green, black, and white.",waka waka and we are one.,"excited, lots of ups and downs and sometimes disappointed.",200 USD,Soccer
+252,0.0,Strongly agree,Strongly agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Pop,Classical or jazz",beers and all kinds of snacks.,blue,could not recall any song at the moment,boring,10 USD,Baseball
+252,2.0,Strongly agree,Strongly agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Winter,Spring,Summer,Fall","Pop,Rock,Hip-hop or rap,Classical or jazz","popcorn, burgers, hotdog, beers, coke, and all kinds of snack.","red, blue, purple",today is a good day by ice cube,"extremely happy, blown away.",400 usd,Basketball
+255,2.0,Strongly agree,Agree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Spring,Summer,Fall","Rock,Hip-hop or rap,Electronic or dance","Fish and chips, pizza",Red,Lose yourself,Competitive and hyped,120,Soccer
+255,0.0,Disagree,Neutral,Strongly agree,"Outdoor public space,School or university facility","Spring,Summer,Fall","Rock,Hip-hop or rap,Electronic or dance","Piazza, fries and hamburger ",Blue,Godzilla,Nostalgic and loyal,80,Baseball
+255,3.0,Agree,Strongly agree,Neutral,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,Pizza and fries,Red,Lose yourself,Bored,70,Basketball
+256,3.0,Agree,Agree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others","Spring,Summer,Fall","Pop,Rock,Electronic or dance,Latin","pie, tea, fish and chips",Red,Wonderwall,Excited,$50,Soccer
+256,6.0,Neutral,Neutral,Disagree,"Outdoor public space,Community recreation facility,Private sports facility","Spring,Summer",No particular type,"Hotdogs, chips, soda",Blue,charge,bored,$25,Baseball
+256,4.0,Neutral,Agree,Strongly agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Winter,Spring,Summer,Fall","Pop,Electronic or dance","Popcorn, soda, french fries",Red,lets go [a team in this sport] chant ,Neutral,$50,Basketball
+257,7.0,Strongly agree,Agree,Disagree,"Outdoor public space,Private sports facility","Spring,Summer",No particular type,"variety of fast foods like burgers, hot dogs, fries, meat options, and soft drinks",white and black,none,bored,not much if at all,Soccer
+257,4.0,Neutral,Disagree,Agree,"Outdoor public space,School or university facility,Private sports facility","Spring,Summer,Fall",No particular type,"Hot dog, fries, soft drinks",white,none,intrigued ,a bit more since it gives you higher chance to see the swing and maybe catch the ball,Baseball
+257,8.0,Agree,Neutral,Neutral,"Indoor facility,Outdoor public space,School or university facility,Private sports facility","Winter,Spring,Summer,Fall",No particular type,,Blue and red,,Alright,A bit more than usual to see close ups and players technique,Basketball
+264,8.0,Agree,Neutral,Strongly disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby,Others",Summer,Latin," Burgers, Fries, Pub food,",Green and Yellow,Word Cup by iShowSpeed,"Excited, Anxious (in a good way)",$300,Soccer
+264,6.0,Neutral,Neutral,Neutral,"Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Winter,Spring,Summer,Fall",Country,"Hotdogs, Beer",Blue,J. Johnson - Blue Collar Anthem,Bored,$50,Baseball
+264,8.0,Agree,Disagree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall",Hip-hop or rap,Sandwiches,Orange,Dear [this sport]...,"Excited, Anxious(in a good way)",$200,Basketball
+271,4.0,Neutral,Agree,Agree,"Outdoor public space,School or university facility,Private sports facility,At home or nearby","Spring,Summer","Rock,Hip-hop or rap,Electronic or dance",Soda drinks and fast foods,Green,waka waka,Excited,200,Soccer
+271,7.0,Agree,Neutral,Agree,"Outdoor public space,School or university facility,Private sports facility","Summer,Fall","Country,Classical or jazz,Folk or traditional",Hot dogs and pretzels,Brown,Stove League,Passionated,300,Baseball
+271,3.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Winter,Spring,Summer,Fall","Pop,Rock,Hip-hop or rap",Soda drinks and fast foods,Red,Slam dunk,Motivated,200,Basketball
+274,3.0,Agree,Agree,Disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Summer,Fall","Pop,Hip-hop or rap,Latin,Other","BBQ, beers, fried chicken, coke, soda","black, white, blue, green, yellow, red",Waka Waka (This Time for Africa),"excited, nervous, happy",$50,Soccer
+274,7.0,Neutral,Strongly agree,Neutral,"Indoor facility,Outdoor public space,Private sports facility,At home or nearby","Summer,Fall",No particular type,"beers, popcorn, peanuts","white, blue, black",Take Me Out to the Ball Game,"confused, excited",$50,Baseball
+274,2.0,Neutral,Neutral,Strongly disagree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility","Summer,Fall","Pop,Rock,Hip-hop or rap","chips, coke, soda","black, orange, white, red",Sirius,"excited, amzaed, happy, nervous",$100,Basketball
+290,3.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer,Fall","Pop,Hip-hop or rap","beer, chicken wings, fries, popcorn, chips, coke",blue,[a competition] by ISHOWSPEED,bored,under 100,Soccer
+290,6.0,Agree,Neutral,Disagree,"Outdoor public space,School or university facility,Community recreation facility","Spring,Summer,Fall","Pop,Hip-hop or rap","poutine, chicken wings, fries, popcorn, hot dog",blue,OK [a team in this sport],mildly excited,250,Baseball
+290,3.0,Agree,Agree,Agree,"Indoor facility,Outdoor public space,School or university facility,Community recreation facility,Private sports facility,At home or nearby","Spring,Summer,Fall","Pop,Rock,Hip-hop or rap","chicken wings, fries, hot dogs, popcorn",red,ball w/o you by 21 Savage,mildly entertained,400,Basketball
