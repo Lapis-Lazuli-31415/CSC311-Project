@@ -132,21 +132,18 @@ def softmax_activation(z):
     exp_z = np.exp(z - np.max(z, axis=1, keepdims=True))
     return exp_z / np.sum(exp_z, axis=1, keepdims=True)
 
-def predict_logistic(X_scaled, weights_path='softmax_weights.json'):
-    """Runs multinomial logistic regression (softmax) using only NumPy."""
+def predict_softmax(X_scaled, weights_path='softmax_weights.json'):
+    """Runs Softmax Regression forward pass using only NumPy."""
     data = load_json_safe(weights_path)
 
-    coef = np.array(data['coef'], dtype=np.float64)
-    intercept = np.array(data['intercept'], dtype=np.float64)
+    weights = np.array(data['weights'], dtype=np.float64)
+    biases = np.array(data['biases'], dtype=np.float64)
     classes = np.array(data['classes'])
 
-    # Handle both (n_classes, n_features) from sklearn and (n_features, n_classes)
-    if coef.shape[1] == X_scaled.shape[1]:
-        z = np.dot(X_scaled, coef.T) + intercept
-    else:
-        z = np.dot(X_scaled, coef) + intercept
-
+    # weights has shape (n_classes, n_features) from sklearn's coef_
+    z = np.dot(X_scaled, weights.T) + biases
     probs = softmax_activation(z)
+
     pred_indices = np.argmax(probs, axis=1)
     numeric_preds = classes[pred_indices]
 
@@ -160,7 +157,7 @@ def predict_all(filename):
         
     df = pd.read_csv(filename)
     X_scaled = preprocess_for_inference(df)
-    return predict_logistic(X_scaled)
+    return predict_softmax(X_scaled)
 
 if __name__ == "__main__":
     input_file = input("Enter the path to the CSV file for prediction: ").strip()
