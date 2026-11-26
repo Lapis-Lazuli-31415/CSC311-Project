@@ -36,9 +36,10 @@ def compute_tfidf_inference(text_series, prefix, saved_idf):
 
 def preprocess_for_inference(df):
     """Applies the exact training preprocessing pipeline to raw unseen data."""
-    medians = load_json_safe('processed/imputed_medians.json')
-    tfidf_metadata = load_json_safe('processed/tfidf_metadata.json')
-    scaling_params = load_json_safe('processed/scaling_params.json')
+    medians = load_json_safe('imputed_medians.json')
+    tfidf_metadata = load_json_safe('tfidf_metadata.json')
+    scaling_params = load_json_safe('scaling_params.json')
+    price_cap_params = load_json_safe('ticket_price_cap.json')
         
     expected_features = list(scaling_params.keys())
 
@@ -63,8 +64,18 @@ def preprocess_for_inference(df):
         df = df.drop(columns=['id'])
 
     # 2. Numeric & Ordinal Engineering
-    df['ticket_price'] = df['ticket_price'].astype(str).str.extract(r'(\d+\.?\d*)')[0]
+    price_regex = r'(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)'
+    df['ticket_price'] = (
+        df['ticket_price']
+        .astype(str)
+        .str.extract(price_regex)[0]
+        .str.replace(',', '', regex=False)
+    )
     df['ticket_price'] = pd.to_numeric(df['ticket_price'], errors='coerce')
+    df['ticket_price'] = df['ticket_price'].clip(
+        lower=price_cap_params['lower'],
+        upper=price_cap_params['upper']
+    )
 
     likert_mapping = {
         'Strongly disagree': 1, 'Disagree': 2, 'Neutral': 3, 
@@ -121,27 +132,24 @@ def softmax_activation(z):
     exp_z = np.exp(z - np.max(z, axis=1, keepdims=True))
     return exp_z / np.sum(exp_z, axis=1, keepdims=True)
 
-def predict_mlp(X_scaled, weights_path='models/mlp_weights.json'):
-    """Runs the MLP forward pass using only NumPy."""
+def predict_logistic(X_scaled, weights_path='softmax_weights.json'):
+    """Runs multinomial logistic regression (softmax) using only NumPy."""
     data = load_json_safe(weights_path)
-        
-    weights = [np.array(w) for w in data['weights']]
-    biases = [np.array(b) for b in data['biases']]
+
+    coef = np.array(data['coef'], dtype=np.float64)
+    intercept = np.array(data['intercept'], dtype=np.float64)
     classes = np.array(data['classes'])
-    
-    # Hidden layers with ReLU
-    a = X_scaled
-    for i in range(len(weights) - 1):
-        z = np.dot(a, weights[i]) + biases[i]
-        a = np.maximum(0, z)
-        
-    # Output layer with Softmax
-    z_out = np.dot(a, weights[-1]) + biases[-1]
-    probs = softmax_activation(z_out)
-    
+
+    # Handle both (n_classes, n_features) from sklearn and (n_features, n_classes)
+    if coef.shape[1] == X_scaled.shape[1]:
+        z = np.dot(X_scaled, coef.T) + intercept
+    else:
+        z = np.dot(X_scaled, coef) + intercept
+
+    probs = softmax_activation(z)
     pred_indices = np.argmax(probs, axis=1)
     numeric_preds = classes[pred_indices]
-    
+
     return [INT_TO_LABEL[int(p)] for p in numeric_preds]
 
 def predict_all(filename):
@@ -152,7 +160,7 @@ def predict_all(filename):
         
     df = pd.read_csv(filename)
     X_scaled = preprocess_for_inference(df)
-    return predict_mlp(X_scaled)
+    return predict_logistic(X_scaled)
 
 if __name__ == "__main__":
     input_file = input("Enter the path to the CSV file for prediction: ").strip()
